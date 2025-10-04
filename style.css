@@ -70,3 +70,12 @@ a {
     width: 200px;
     border-radius: 50%;
 }
+.foto-pruvodce {
+  border-radius: 0 50px 50px 50px;
+}
+
+.fotogalerie img {
+  width: 32%;
+  border: 2px solid #756158;
+  border-radius: 10px;
+}
