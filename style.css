@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  background-color: #fff1e6;
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+/*
+font-family: 'Raleway', sans-serif;
+font-family: 'Playfair Display', serif;
+*/
+h1 {
+  font-family: "Playfair Display";
+  font-style: italic;
+  font-size: 80px;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Playfair Display";
+  font-style: italic;
+  font-size: 42px;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Playfair Display";
+  font-style: italic;
+  font-size: 24px;
+}
+
+a {
+  font-style: italic;
+}
+
+.hlavicka {
+  color: #282425;
+  padding: 20px 0%;
+}
+
+.omne {
+    padding: 50px 15%;
+}
+
+.fotogalerie {
+  background-color: #f9e3d0;
+  padding: 50px 15%;
+}
+
+.pruvodce {
+    padding: 50px 15%;
+}
+
+.kontakt {
+  background-color: #f9e3d0;
+  padding: 50px 15%;
+}
+
+.paticka {
+  color: white;
+  background-color: #282425;
+  text-align: center;
+  padding: 50px 15%;
+}
