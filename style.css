@@ -64,3 +64,8 @@ a {
   text-align: center;
   padding: 50px 15%;
 }
+
+.foto-omne {
+    width: 200px;
+    border-radius: 50%;
+}
